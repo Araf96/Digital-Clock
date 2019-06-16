@@ -1,0 +1,17 @@
+﻿Build started 5/30/2019 2:37:24 PM.
+     1>Project "F:\BUET\L1-T2\Digital_Clock\IGraphics\IGraphics\IGraphics\IGraphics.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\IGraphics.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         IGraphics.vcxproj -> F:\BUET\L1-T2\Digital_Clock\IGraphics\IGraphics\Debug\IGraphics.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\IGraphics.unsuccessfulbuild".
+         Touching "Debug\IGraphics.lastbuildstate".
+     1>Done Building Project "F:\BUET\L1-T2\Digital_Clock\IGraphics\IGraphics\IGraphics\IGraphics.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14
