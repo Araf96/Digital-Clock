@@ -1,1 +1,1 @@
-A Digital Clock built using iGraphics
+A Digital Clock built using iGraphics. 
